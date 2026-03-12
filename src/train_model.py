@@ -12,8 +12,8 @@ BATCH_SIZE = 32
 EPOCHS_HEAD = 10
 EPOCHS_FINETUNE = 20
 
-DATASET_DIR = r"C:\projects\Crop Disease Detection-clg\dataset\train_dataset"
-SAVE_PATH = r"C:\projects\Crop Disease Detection-clg\saved_models\best_crop_disease_model.keras"
+DATASET_DIR = r"C:\projects\Crop Disease Detection\dataset\train_dataset"
+SAVE_PATH = r"C:\projects\Crop Disease Detection\saved_models\best_crop_disease_model.keras"
 
 # -----------------------------
 # LOAD DATASET
